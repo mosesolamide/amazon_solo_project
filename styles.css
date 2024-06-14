@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+a{
+    color: #007185;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+.card_2{
+     margin-left: 20px;
+}
+.container{
+    display: flex;
+}
+.card{
+    margin:30px;
+}
+p{
+    color: #565959;
+}
+h2{
+       font-weight: lighter;
+}
